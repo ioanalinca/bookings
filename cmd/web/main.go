@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/ioanalinca/bookings/pkg/config"
-	"github.com/ioanalinca/bookings/pkg/handlers"
-	"github.com/ioanalinca/bookings/pkg/render"
+	"github.com/ioanalinca/bookings/internal/config"
+	"github.com/ioanalinca/bookings/internal/handlers"
+	"github.com/ioanalinca/bookings/internal/render"
 )
 
 const portNumber = ":8081"
